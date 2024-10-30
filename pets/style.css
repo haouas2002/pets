@@ -1,0 +1,77 @@
+#logo{
+    height: 200px;
+    width: 200px;
+
+}
+.head{
+    height: 200px;
+    color: black;
+    font-size: 1.25rem;
+    font-weight:bold ;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#DISCOUNT{
+    background-color: #F6C042;
+    padding: 10px;
+    
+}
+a{
+    margin: 10px;
+    float: right;
+}
+
+
+#par{
+    height: 200px;
+    width: 800px;
+    font-size :2rem;
+    font-weight:bold ;
+    text-align: center;
+    position: relative;
+    left: 25%;
+    
+}
+#para{
+    color: red;
+    text-decoration: underline;
+}
+#ul{
+    width: 800px;
+    height: 250px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 20%;
+}
+.ul{
+    padding: 3px;
+}
+#back{
+    height: 100px;
+    width: 1000px;
+    background-color: #D0E0E3;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 15%;
+}
+#dog{
+    height: 200px;
+    width: 200px;
+    margin: 30px;
+    position: relative;
+}
+.pets1{
+    height: 300px;
+    width: 300pw;
+    position: absolute;
+    left: 200px;
+}
+.pets2{
+    height: 300px;
+    width: 300pw;
+    position: absolute;
+    left: 700px;
+}
